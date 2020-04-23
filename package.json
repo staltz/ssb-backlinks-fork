@@ -1,11 +1,11 @@
 {
-  "name": "ssb-backlinks",
+  "name": "ssb-backlinks-fork",
   "description": "scuttlebot plugin for indexing all link mentions of messages",
   "version": "1.0.0",
-  "homepage": "https://github.com/ssbc/ssb-backlinks",
+  "homepage": "https://github.com/staltz/ssb-backlinks-fork",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ssbc/ssb-backlinks.git"
+    "url": "git://github.com/staltz/ssb-backlinks-fork.git"
   },
   "dependencies": {
     "base64-url": "^2.2.0",
